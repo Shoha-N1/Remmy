@@ -544,14 +544,33 @@ img {
 
            /* FOOTER */
 
+    .kolker {
+        margin-top: 20%;
+        display: flex;
+        margin-bottom: 5%;
+    }
+
     .kolker ul li {
         list-style: none;
         text-decoration: none;
     }
   
     .kolker a{
-      
+        text-decoration: none;
+        line-height: 16px;
         color: rgba(7, 19, 48, 0.5); 
+        padding-right: 25px;
+
     }
 
+    .compact {
+        margin-right: 430px;
+        line-height: 20px;
+
+    }
+
+    .compaction {
+        display: flex;
+        margin-top: 10px;
+    }
     
